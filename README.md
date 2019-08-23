@@ -14,10 +14,10 @@ proposed to solve the problem of unreliable sample covariance.
 
 # Why not sklearn?
 
-LedoitWolf Estimator from [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.LedoitWolf.html)
-use Ledoit-Wolf shrinkage to zero correlation equal variance target and implies no systematic risk and equal total risk 
+Ledoit-Wolf Estimator from [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.LedoitWolf.html)
+use shrinkage to zero correlation equal variance target and implies no systematic risk and equal total risk 
 of all stocks.
 
 # Special thanks to:
  
-[Evgeny Pogrebnyak](https://github.com/epogrebnyak).
+[Evgeny Pogrebnyak](https://github.com/epogrebnyak)
